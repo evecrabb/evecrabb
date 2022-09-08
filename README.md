@@ -12,7 +12,7 @@ Hi! I'm Eve, a Senior Developer at [giffgaff](https://www.giffgaff.com).
 </tr>
 <tr>
 <td> Black </td>
-<td> `#000000` </td>
+<td style="background-color: #000; color: #fff;"> #000000 </td>
 <td>
 
 ```tsx
