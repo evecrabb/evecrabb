@@ -6,10 +6,12 @@ ALL OF THIS IS WIP AT THE MOMENT
 
 Hi! I'm Eve, a Senior Developer at [giffgaff](https://www.giffgaff.com). 
 
-<details><summary>## Breakpoints</summary>
+## Breakpoints
+
+<details><summary>Options</summary>
 <table>
 <tr>
-<th> Option </th> <th> Response </th> <th> Code </th>
+<th> Name </th> <th> Value </th> <th> Code </th>
 </tr>
 <tr>
 <td> Tiny </td>
@@ -18,6 +20,45 @@ Hi! I'm Eve, a Senior Developer at [giffgaff](https://www.giffgaff.com).
 
 ```tsx
 @media (min-width: ${styles.breakpoint('tiny')}) {
+  // your styles here
+}
+```
+
+</td>
+</tr>
+<tr>
+<td> Small </td>
+<td> 360px </td>
+<td>
+
+```tsx
+@media (min-width: ${styles.breakpoint('small')}) {
+  // your styles here
+}
+```
+
+</td>
+</tr>
+<tr>
+<td> Medium </td>
+<td> 768px </td>
+<td>
+
+```tsx
+@media (min-width: ${styles.breakpoint('medium')}) {
+  // your styles here
+}
+```
+
+</td>
+</tr>
+<tr>
+<td> Large </td>
+<td> 992px </td>
+<td>
+
+```tsx
+@media (min-width: ${styles.breakpoint('large')}) {
   // your styles here
 }
 ```
