@@ -8,6 +8,8 @@ Hi! I'm Eve, a Senior Developer at [giffgaff](https://www.giffgaff.com).
 
 ## Breakpoints
 
+Details on our breakpoints can be found on the [design system site](https://www.giffgaff.design/design-fundamentals/breakpoints/). Open up the options below to see code snippets and options.
+
 <details><summary>Options</summary>
 <table>
 <tr>
