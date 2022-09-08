@@ -6,6 +6,14 @@ ALL OF THIS IS WIP AT THE MOMENT
 
 Hi! I'm Eve, a Senior Developer at [giffgaff](https://www.giffgaff.com). 
 
+| Option | Value | Code                             |
+| ------ | ----- | -------------------------------- |
+| Tiny   | 320px | `${styles.breakpoint('tiny')}`   |
+| Small  | 360px | `${styles.breakpoint('small')}`  |
+| Medium | 768px | `${styles.breakpoint('medium')}` |
+| Large  | 768px | `${styles.breakpoint('large')}`  |
+
+
 ## Stack 
 
 - ### **My Stack**
