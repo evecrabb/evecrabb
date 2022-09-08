@@ -6,6 +6,7 @@ ALL OF THIS IS WIP AT THE MOMENT
 
 Hi! I'm Eve, a Senior Developer at [giffgaff](https://www.giffgaff.com). 
 
+<details><summary>## Breakpoints</summary>
 <table>
 <tr>
 <th> Option </th> <th> Response </th> <th> Code </th>
@@ -14,8 +15,6 @@ Hi! I'm Eve, a Senior Developer at [giffgaff](https://www.giffgaff.com).
 <td> Tiny </td>
 <td> 320px </td>
 <td>
-
-^ Extra blank line above!
 
 ```tsx
 @media (min-width: ${styles.breakpoint('tiny')}) {
@@ -26,6 +25,7 @@ Hi! I'm Eve, a Senior Developer at [giffgaff](https://www.giffgaff.com).
 </td>
 </tr>
 </table>
+</details>
 
 
 ## Stack 
