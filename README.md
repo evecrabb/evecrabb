@@ -16,21 +16,21 @@ These functions have been designed to be as similar as possible to the design sy
 
 Jump to:
 
-[Breakpoints](#breakpoints)
-[Layout tokens](#layout-tokens)
-[Colours](#colours)
-[Pastel Colours](#pastel-colours)
-[Icons](#icons)
-[Images](#images)
-[Spacers](#spacers)
-[Typography scale](#typography-scale)
-[Strikethrough](#strikethrough)
-[Gradients](#gradients)
-[Digital Noise](#digital-noise)
-[Borders](#borders)
-[Doodles](#doodles)
-[Sparkles](#sparkles)
-[Grid size](#grid-size)
+- [Breakpoints](#breakpoints)
+- [Layout tokens](#layout-tokens)
+- [Colours](#colours)
+- [Pastel Colours](#pastel-colours)
+- [Icons](#icons)
+- [Images](#images)
+- [Spacers](#spacers)
+- [Typography scale](#typography-scale)
+- [Strikethrough](#strikethrough)
+- [Gradients](#gradients)
+- [Digital Noise](#digital-noise)
+- [Borders](#borders)
+- [Doodles](#doodles)
+- [Sparkles](#sparkles)
+- [Grid size](#grid-size)
 
 ## Breakpoints
 
@@ -97,6 +97,23 @@ Jump to:
 ```
 ${styles.layout('item')}
 ```
+
+<table>
+<tr>
+<th> Name </th> <th> Value </th> <th> Code </th>
+</tr>
+<tr>
+<td> Min width </td>
+<td> 320px </td>
+<td>
+
+```tsx
+${styles.layout('min-width')}
+```
+
+</td>
+</tr>
+</table>
 
 **Options**:
 'min-width', 'max-width', 'readable-width', 'header-height'
@@ -884,6 +901,7 @@ This gives access to the grid units from the design tokens. Simply pass in a mul
 const Component = styled.htmlTag`
   width: ${styles.gridSize(3)};
 ```
+
 
 
 ## Stack 
