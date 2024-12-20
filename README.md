@@ -15,8 +15,6 @@ Hi! I'm Eve, a Senior Developer at [giffgaff](https://www.giffgaff.com).
 
 ## GitHub statistics
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=evecrabb&show_icons=true&theme=prussian)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evecrabb&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
