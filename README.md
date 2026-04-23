@@ -34,15 +34,9 @@ I'm super passionate about accessibility, design systems and lovely UI.
 #### Tooling
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50px" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github actions" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" width="50px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" alt="Homebrew" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="50px" />
-          
-          
-## GitHub statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evecrabb&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Credits
 
 * [devicon](https://github.com/devicons) and [Terence Eden & co](https://github.com/edent/SuperTinyIcons) for the icons.
-* [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats.
 * [Claire Lemonnier](https://github.com/lemocla) for the inspiration.
